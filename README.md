@@ -64,6 +64,6 @@ A Visual Studio Code extension that provides a chat interface powered by the Goo
     *   `webview-ui/src/index.html`: The HTML file loaded by the webview.
     *   `webview-ui/src/index.tsx`: The entry point for the React application.
 
-## Contributing
+
 
 
